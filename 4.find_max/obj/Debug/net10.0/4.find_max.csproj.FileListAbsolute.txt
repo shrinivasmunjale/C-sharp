@@ -1,0 +1,15 @@
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.AssemblyInfoInputs.cache
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.AssemblyInfo.cs
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.csproj.CoreCompileInputs.cache
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.sourcelink.json
+D:\C#\4.find_max\bin\Debug\net10.0\4.find_max.exe
+D:\C#\4.find_max\bin\Debug\net10.0\4.find_max.deps.json
+D:\C#\4.find_max\bin\Debug\net10.0\4.find_max.runtimeconfig.json
+D:\C#\4.find_max\bin\Debug\net10.0\4.find_max.dll
+D:\C#\4.find_max\bin\Debug\net10.0\4.find_max.pdb
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.dll
+D:\C#\4.find_max\obj\Debug\net10.0\refint\4.find_max.dll
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.pdb
+D:\C#\4.find_max\obj\Debug\net10.0\4.find_max.genruntimeconfig.cache
+D:\C#\4.find_max\obj\Debug\net10.0\ref\4.find_max.dll
