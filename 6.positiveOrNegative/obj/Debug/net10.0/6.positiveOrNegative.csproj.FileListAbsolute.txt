@@ -1,0 +1,15 @@
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.AssemblyInfoInputs.cache
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.AssemblyInfo.cs
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.csproj.CoreCompileInputs.cache
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.sourcelink.json
+D:\C#\6.positiveOrNegative\bin\Debug\net10.0\6.positiveOrNegative.exe
+D:\C#\6.positiveOrNegative\bin\Debug\net10.0\6.positiveOrNegative.deps.json
+D:\C#\6.positiveOrNegative\bin\Debug\net10.0\6.positiveOrNegative.runtimeconfig.json
+D:\C#\6.positiveOrNegative\bin\Debug\net10.0\6.positiveOrNegative.dll
+D:\C#\6.positiveOrNegative\bin\Debug\net10.0\6.positiveOrNegative.pdb
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.dll
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\refint\6.positiveOrNegative.dll
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.pdb
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\6.positiveOrNegative.genruntimeconfig.cache
+D:\C#\6.positiveOrNegative\obj\Debug\net10.0\ref\6.positiveOrNegative.dll
