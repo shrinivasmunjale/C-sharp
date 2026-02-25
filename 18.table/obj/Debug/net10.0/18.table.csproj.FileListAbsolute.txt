@@ -1,0 +1,15 @@
+D:\C#\18.table\obj\Debug\net10.0\18.table.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\18.table\obj\Debug\net10.0\18.table.AssemblyInfoInputs.cache
+D:\C#\18.table\obj\Debug\net10.0\18.table.AssemblyInfo.cs
+D:\C#\18.table\obj\Debug\net10.0\18.table.csproj.CoreCompileInputs.cache
+D:\C#\18.table\obj\Debug\net10.0\18.table.sourcelink.json
+D:\C#\18.table\bin\Debug\net10.0\18.table.exe
+D:\C#\18.table\bin\Debug\net10.0\18.table.deps.json
+D:\C#\18.table\bin\Debug\net10.0\18.table.runtimeconfig.json
+D:\C#\18.table\bin\Debug\net10.0\18.table.dll
+D:\C#\18.table\bin\Debug\net10.0\18.table.pdb
+D:\C#\18.table\obj\Debug\net10.0\18.table.dll
+D:\C#\18.table\obj\Debug\net10.0\refint\18.table.dll
+D:\C#\18.table\obj\Debug\net10.0\18.table.pdb
+D:\C#\18.table\obj\Debug\net10.0\18.table.genruntimeconfig.cache
+D:\C#\18.table\obj\Debug\net10.0\ref\18.table.dll

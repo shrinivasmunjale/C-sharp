@@ -1,0 +1,15 @@
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.AssemblyInfoInputs.cache
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.AssemblyInfo.cs
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.csproj.CoreCompileInputs.cache
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.sourcelink.json
+D:\C#\17.countOfDigit\bin\Debug\net10.0\17.countOfDigit.exe
+D:\C#\17.countOfDigit\bin\Debug\net10.0\17.countOfDigit.deps.json
+D:\C#\17.countOfDigit\bin\Debug\net10.0\17.countOfDigit.runtimeconfig.json
+D:\C#\17.countOfDigit\bin\Debug\net10.0\17.countOfDigit.dll
+D:\C#\17.countOfDigit\bin\Debug\net10.0\17.countOfDigit.pdb
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.dll
+D:\C#\17.countOfDigit\obj\Debug\net10.0\refint\17.countOfDigit.dll
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.pdb
+D:\C#\17.countOfDigit\obj\Debug\net10.0\17.countOfDigit.genruntimeconfig.cache
+D:\C#\17.countOfDigit\obj\Debug\net10.0\ref\17.countOfDigit.dll

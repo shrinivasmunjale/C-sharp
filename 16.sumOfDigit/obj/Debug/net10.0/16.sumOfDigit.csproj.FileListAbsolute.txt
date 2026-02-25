@@ -1,0 +1,15 @@
+D:\C#\16.sumOfDigit\bin\Debug\net10.0\16.sumOfDigit.exe
+D:\C#\16.sumOfDigit\bin\Debug\net10.0\16.sumOfDigit.deps.json
+D:\C#\16.sumOfDigit\bin\Debug\net10.0\16.sumOfDigit.runtimeconfig.json
+D:\C#\16.sumOfDigit\bin\Debug\net10.0\16.sumOfDigit.dll
+D:\C#\16.sumOfDigit\bin\Debug\net10.0\16.sumOfDigit.pdb
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.AssemblyInfoInputs.cache
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.AssemblyInfo.cs
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.csproj.CoreCompileInputs.cache
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.sourcelink.json
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.dll
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\refint\16.sumOfDigit.dll
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.pdb
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\16.sumOfDigit.genruntimeconfig.cache
+D:\C#\16.sumOfDigit\obj\Debug\net10.0\ref\16.sumOfDigit.dll

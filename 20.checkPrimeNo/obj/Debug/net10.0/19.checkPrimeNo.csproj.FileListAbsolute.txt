@@ -1,0 +1,15 @@
+D:\C#\19.checkPrimeNo\bin\Debug\net10.0\19.checkPrimeNo.exe
+D:\C#\19.checkPrimeNo\bin\Debug\net10.0\19.checkPrimeNo.deps.json
+D:\C#\19.checkPrimeNo\bin\Debug\net10.0\19.checkPrimeNo.runtimeconfig.json
+D:\C#\19.checkPrimeNo\bin\Debug\net10.0\19.checkPrimeNo.dll
+D:\C#\19.checkPrimeNo\bin\Debug\net10.0\19.checkPrimeNo.pdb
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.AssemblyInfoInputs.cache
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.AssemblyInfo.cs
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.csproj.CoreCompileInputs.cache
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.sourcelink.json
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.dll
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\refint\19.checkPrimeNo.dll
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.pdb
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\19.checkPrimeNo.genruntimeconfig.cache
+D:\C#\19.checkPrimeNo\obj\Debug\net10.0\ref\19.checkPrimeNo.dll
