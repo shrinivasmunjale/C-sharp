@@ -1,0 +1,15 @@
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.AssemblyInfoInputs.cache
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.AssemblyInfo.cs
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.csproj.CoreCompileInputs.cache
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.sourcelink.json
+D:\C#\21.gcd\bin\Debug\net10.0\21.gcd.exe
+D:\C#\21.gcd\bin\Debug\net10.0\21.gcd.deps.json
+D:\C#\21.gcd\bin\Debug\net10.0\21.gcd.runtimeconfig.json
+D:\C#\21.gcd\bin\Debug\net10.0\21.gcd.dll
+D:\C#\21.gcd\bin\Debug\net10.0\21.gcd.pdb
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.dll
+D:\C#\21.gcd\obj\Debug\net10.0\refint\21.gcd.dll
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.pdb
+D:\C#\21.gcd\obj\Debug\net10.0\21.gcd.genruntimeconfig.cache
+D:\C#\21.gcd\obj\Debug\net10.0\ref\21.gcd.dll
