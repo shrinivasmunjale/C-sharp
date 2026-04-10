@@ -27,7 +27,7 @@ To build strong logic and understanding of core programming concepts in C#.
 - .NET Console Applications
 
 ## 📌 Total Programs
-👉 50 Programs (Level 1)
+👉 50 Programs (Level 1) simple level
 
 ## 📖 Reference
 Based on academic program list: :contentReference[oaicite:0]{index=0}
