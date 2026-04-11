@@ -17,10 +17,7 @@ This repository contains beginner-level C# programs focused on building strong f
 - Factorial
 - Fibonacci Series
 - Pattern Printing
-- And many more...
-
-## 🎯 Objective
-To build strong logic and understanding of core programming concepts in C#.
+- And many more...of core programming concepts in C#.
 
 ## 🛠️ Technologies Used
 - C#
