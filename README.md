@@ -1,4 +1,4 @@
-# C# Level 1 – Basics & Core Programming 🚀
+# C# Level 1 – Basics & Core Program
 
 This repository contains beginner-level C# programs focused on building strong fundamentals.
 
